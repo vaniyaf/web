@@ -1,0 +1,469 @@
+.main_block{   
+    position: absolute;
+    width: 1920px;
+    height: 80px;
+    left: 0px;
+    top: 0px;
+}
+.mainsecond_block{
+    position: absolute; 
+    width: 1920px;
+    height: 2000px;
+    left: 0px;
+    top: 80px;
+    background-color: rgb(193, 199, 205);
+}
+.last_block{
+    position: absolute;
+    width: 1920px;
+    height: 200px;
+    left: 0px;
+    top: 2000px;
+    background-color: #bcbcbc;
+
+}
+.photo_1 img{
+    position: absolute;
+    left: 80px;
+    top: 15px;
+    height: 50px;
+    width: 50px;
+}
+.one{
+    position: absolute;
+    left:300px;
+    line-height: 22px;
+    top: 35px;
+    height: 22px;
+}
+.two{
+    position: absolute;
+    left: 400px;
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+    top: 35px;
+    height: 22px;
+    color: #2A2A2A;
+}
+.three{
+    position: absolute;
+    left: 500px;
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+    top: 35px;
+    height: 22px;
+    color: #2A2A2A;
+}
+.four{
+    position: absolute;
+    left: 600px;
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+    top: 35px;
+    height: 22px;
+    color: #2A2A2A;
+}
+.five{
+    position: absolute;
+    left: 700px;
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+    top: 35px;
+    height: 22px;
+    color: #2A2A2A;
+}
+.six{
+    position: absolute;
+    left: 850px;
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+    top: 35px;
+    height: 22px;
+    color: #2A2A2A;
+}
+.seven{
+    position: absolute;
+    left: 950px;
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+    top: 35px;
+    height: 22px;
+    color: #2A2A2A;
+}
+.photo_just{
+    position: absolute;
+    top: 25px;
+    left:1300px;
+}
+.photo_2{
+    position: absolute;
+    width: 400px;
+    height: 300px;
+    left: 100px;
+    top: 100px;
+}
+.ones{
+    position: absolute;
+    width: 67px;
+    height: 18px;
+    left: 800px;
+    top: 202px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 29px;
+    letter-spacing: 0.02em;
+    color: #C31815;
+}
+.oness{
+    position: absolute;
+    width: 67px;
+    height: 18px;
+    left: 850px;
+    top: 202px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 29px;
+    letter-spacing: 0.02em;
+    color: #C31815;
+}
+.second{
+    position: absolute;
+    width: 540px;
+    height: 123px;
+    left: 870px;
+    top: 220px;
+    font-family: 'IBM Plex Serif';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 42px;
+    color: #2A2A2A;
+}
+.third{
+    position: absolute;
+    width: 150px;
+    height: 20px;
+    left: 870px;
+    top: 350px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 165%;
+    color: #2A2A2A;
+}
+.block{
+    position: absolute;
+    width: 1366px;
+    height: 80px;
+    left: 160px;
+    top: 600px;
+    background-color: #C31815;
+}
+.small_block button{
+    position: absolute;
+    width: 208.06px;
+    height: 54px;
+    left: 220px;
+    top: 12px;
+    border-radius: 25px;
+}
+.text{
+    position: absolute;
+    width: 690.43px;
+    height: 25px;
+    left: 240px;
+    top: 30px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 15px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.mainthird_block{
+    position: absolute;
+    width: 916px;
+    height: 54px;
+    left: 0px;
+    top: 100px;
+    background: rgba(255, 255, 255, 0.85);
+    backdrop-filter: blur(14px);
+}
+.button_1{
+    position: absolute;
+    width: 123px;
+    height: 27px;
+    left: 10px;
+    top: 10px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    display: flex;
+    align-items: center;
+    color: #2A2A2A;
+}
+.button_2{
+    position: absolute;
+    width: 123px;
+    height: 27px;
+    left: 150px;
+    top: 10px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    display: flex;
+    align-items: center;
+    color: #2A2A2A; 
+}
+.button_3{
+    position: absolute;
+    width: 123px;
+    height: 27px;
+    left: 300px;
+    top: 10px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    display: flex;
+    align-items: center;
+    color: #2A2A2A; 
+}
+.small_one{
+    position: absolute;
+    width: 370px;
+    height: 450px;
+    left: 30px;
+    top: 200px;
+    background-color: #aba4a4;
+    border-radius: 10px;  
+
+}
+.photo_3{
+    position: absolute;
+    left: 10px;
+    top: 10px;
+}
+.small_two{
+    position: absolute;
+    width: 370px;
+    height: 450px;
+    left: 500px;
+    top: 200px;
+    background-color: #aba4a4;
+    border-radius: 10px;     
+}
+.photo_4{
+    position: absolute;
+    left: 15px;
+    top: 10px;
+
+}
+.small_tree{
+    position: absolute;
+    width: 370px;
+    height: 450px;
+    left: 1000px;
+    top: 200px;
+    background-color: #aba4a4;   
+    border-radius: 10px;  
+}
+.photo_5{
+    position: absolute;
+    left: 20px;
+    top: 10px;
+}
+.small_four{
+    position: absolute;
+    width: 370px;
+    height: 450px;
+    left: 30px;
+    top: 700px;
+    background-color: #aba4a4;  
+    border-radius: 10px;  
+}
+.photo_6{
+    position: absolute;
+    left: 20px;
+    top: 10px;
+}
+.small_five{
+    position: absolute;
+    width: 370px;
+    height: 450px;
+    left: 500px;
+    top: 700px;
+    background-color: #aba4a4; 
+    border-radius: 10px;   
+}
+.photo_7{
+    position: absolute;
+    left: 20px;
+    top: 10px;
+}
+.small_six{
+    position: absolute;
+    width: 370px;
+    height: 450px;
+    left: 1000px;
+    top: 700px;
+    background-color: #aba4a4;
+    border-radius: 10px;    
+}
+.photo_8{
+    position: absolute;
+    left: 20px;
+    top: 10px;
+}   
+.word_one{
+    position: absolute;
+    top: 250px;
+    left: 50px;
+}
+.word_two{
+    position: absolute;
+    top: 250px;
+    left: 50px;
+}
+.word_three{
+    position: absolute;
+    top: 250px;
+    left: 50px;
+}
+.word_four{
+    position: absolute;
+    top: 250px;
+    left: 40px;
+}
+.word_five{
+    position: absolute;
+    top: 250px;
+    left: 35px;
+}
+.word_six{
+    position: absolute;
+    top: 250px;
+    left: 35px;
+}
+.input_block{
+    position: absolute;
+    width: 300px;
+    height: 200px;
+    left: 900px;
+    top: 370px;
+    background-color: white;
+}
+.words_first{
+    position: absolute;
+    top: 30px;
+    left: 35px;
+}
+.input_one input{
+    position: absolute;
+    top: 60px;
+    left: 20px;
+    width:  200px;
+    height: 30px;
+    border:1px solid #999;
+    border-radius: 10px;
+}
+.input_two input{
+    position: absolute;
+    top: 100px;
+    left: 20px;
+    width:  200px;
+    height: 30px;
+    border:1px solid #999;
+    border-radius: 10px;
+
+}
+button {
+    background-color:transparent;
+    border: none;
+    cursor: pointer;
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    color: #2A2A2A;
+}
+
+.vsepra{
+    position: absolute;
+    font-family: 'Nunito Sans';
+    font-size: 16px;
+    top:20px;
+    left:40px;
+}
+.did{
+    position: absolute;
+    font-family: 'Nunito Sans';
+    font-size: 16px;
+    top: 40px;
+    left: 50px;
+}
+.firsts{
+    position: absolute;
+    width: 221px;
+    height: 107px;
+    left: 500px;
+    top: 40px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    color: #FFFFFF;
+}
+.seconds{
+    position: absolute;
+    width: 221px;
+    height: 107px;
+    left: 500px;
+    top: 55px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    color: #FFFFFF;
+}
+.third{
+    position: absolute;
+    width: 221px;
+    height: 107px;
+    left: 500px;
+    top: 70px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    color: #FFFFFF;
+}
